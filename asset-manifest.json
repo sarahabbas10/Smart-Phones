@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Phone-Store/static/css/main.eeb26c03.chunk.css",
+    "main.js": "/Phone-Store/static/js/main.2e4b0175.chunk.js",
+    "main.js.map": "/Phone-Store/static/js/main.2e4b0175.chunk.js.map",
+    "runtime-main.js": "/Phone-Store/static/js/runtime-main.bb0342a4.js",
+    "runtime-main.js.map": "/Phone-Store/static/js/runtime-main.bb0342a4.js.map",
+    "static/js/2.cdc20158.chunk.js": "/Phone-Store/static/js/2.cdc20158.chunk.js",
+    "static/js/2.cdc20158.chunk.js.map": "/Phone-Store/static/js/2.cdc20158.chunk.js.map",
+    "static/js/3.d696c1a1.chunk.js": "/Phone-Store/static/js/3.d696c1a1.chunk.js",
+    "static/js/3.d696c1a1.chunk.js.map": "/Phone-Store/static/js/3.d696c1a1.chunk.js.map",
+    "index.html": "/Phone-Store/index.html",
+    "static/css/main.eeb26c03.chunk.css.map": "/Phone-Store/static/css/main.eeb26c03.chunk.css.map",
+    "static/js/2.cdc20158.chunk.js.LICENSE.txt": "/Phone-Store/static/js/2.cdc20158.chunk.js.LICENSE.txt",
+    "static/media/apple.9e1a5e39.jpg": "/Phone-Store/static/media/apple.9e1a5e39.jpg",
+    "static/media/google.fa8b7e81.jpg": "/Phone-Store/static/media/google.fa8b7e81.jpg",
+    "static/media/huawei.3104105b.jpg": "/Phone-Store/static/media/huawei.3104105b.jpg",
+    "static/media/logo.a70962a1.jpg": "/Phone-Store/static/media/logo.a70962a1.jpg",
+    "static/media/microsoft.d52b21fc.jpg": "/Phone-Store/static/media/microsoft.d52b21fc.jpg",
+    "static/media/samsung.792497cd.jpg": "/Phone-Store/static/media/samsung.792497cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb0342a4.js",
+    "static/js/2.cdc20158.chunk.js",
+    "static/css/main.eeb26c03.chunk.css",
+    "static/js/main.2e4b0175.chunk.js"
+  ]
+}
